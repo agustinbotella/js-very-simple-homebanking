@@ -1,5 +1,3 @@
-//Hola
-
 //Declaración de variables
 
 var nombreUsuario = "Agustin Botella";
