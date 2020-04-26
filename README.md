@@ -1,1 +1,3 @@
-# js-very-simple-homebanking is a pure JavaScript home banking. It was my first JS project
+# js-very-simple-homebanking
+Is a pure JavaScript very simple home banking.
+It was my first JS project
